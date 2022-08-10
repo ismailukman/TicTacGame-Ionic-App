@@ -1,4 +1,4 @@
-# TicTacGame-Ionic-App :phone:
+# TicTacGame-Ionic-App :iphone:
 This is a mobile application build with ionic framework 
 
 * Fork the repository
